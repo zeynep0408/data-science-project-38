@@ -1,0 +1,8 @@
+pytest
+numpy
+pandas
+scikit-learn
+nltk
+joblib
+watchdog
+requests
